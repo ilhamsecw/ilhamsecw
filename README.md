@@ -6,25 +6,28 @@ I'm an Information Technology student at Telkom University Surabaya with a stron
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mhmd.ilhmh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadilhamhabibi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@rusianncxx)
 
-<!-- ![snake gif](https://github.com/ilhamsecw/ilhamsecw/blob/output/github-snake.svg) -->
+
 <!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ilhamsecw/ilhamsecw/blob/output/github-snake.svg" />
+ 
+![snake gif](https://github.com/ilhamsecw/ilhamsecw/blob/output/github-snake-dark.svg)
+</div> -->
+
+<div align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ilhamsecw/ilhamsecw/blob/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/ilhamsecw/ilhamsecw/blob/output/github-snake.svg" />
     <img src="https://github.com/ilhamsecw/ilhamsecw/blob/output/github-snake.svg" alt="github-snake" />
   </picture>
-<h4> _generated with [Platane/snk](https://platane.me/snk/)_</h4>
-</div>
 
-<!-- <p align="left">
+ ## 🏆 GitHub Trophies & Statistics
+![](https://github-profile-trophy.vercel.app/?username=ilhamsecw&theme=onestar&title=MultiLanguage,Stars,Commits,Repositories,Followers,Experience,PullRequest)
+
+<p align="left">
 <a href="https://github.com/ilhamsecw">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilhamsecw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamachiii&layout=compact&theme=algolia"/>
 </a>
-</p> -->
-
- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ilhamsecw&theme=onestar&title=MultiLanguage,Stars,Commits,Repositories,Followers,Experience,PullRequest)
+</p>
 
 <br>
 <div align="left">
