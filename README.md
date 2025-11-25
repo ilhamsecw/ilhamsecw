@@ -6,6 +6,15 @@ I'm an Information Technology student at Telkom University Surabaya with a stron
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mhmd.ilhmh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadilhamhabibi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@rusianncxx)
 
+<!-- ![snake gif](https://github.com/ilhamsecw/ilhamsecw/blob/output/github-snake.svg) -->
+<!-- <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ilhamsecw/ilhamsecw/blob/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/ilhamsecw/ilhamsecw/blob/output/github-snake.svg" />
+    <img src="https://github.com/ilhamsecw/ilhamsecw/blob/output/github-snake.svg" alt="github-snake" />
+  </picture>
+<h4> _generated with [Platane/snk](https://platane.me/snk/)_</h4>
+</div>
 
 <!-- <p align="left">
 <a href="https://github.com/ilhamsecw">
