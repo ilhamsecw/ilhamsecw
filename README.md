@@ -7,16 +7,16 @@ I'm an Information Technology student at Telkom University Surabaya with a stron
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mhmd.ilhmh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadilhamhabibi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@rusianncxx)
 
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/ilhamsecw">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilhamsecw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamachiii&layout=compact&theme=algolia"/>
 </a>
-</p>
+</p> -->
 
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ilhamsecw&theme=onestar&title=MultiLanguage,Stars,Commits,Repositories,Followers,Experience,PullRequest)
 
 <br>
 <div align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhamsecw&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhamsecw&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/>
